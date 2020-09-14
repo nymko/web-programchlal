@@ -1,0 +1,6 @@
+.h{
+	text-shadow: 2px 2px pink;
+	height: 110px;
+	background-color: gray;
+	background-image: linear-gradient(gray, pink);
+}

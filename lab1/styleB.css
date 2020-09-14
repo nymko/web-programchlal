@@ -1,0 +1,31 @@
+.A,.C {
+	font-size: 40px;
+	font-family: Tahoma;
+	width: 100px;
+	height: 150px;
+	background-color: #eeeff2;
+	border-left-style: dotted; 
+	border-width:  10px;
+	margin-left: 10px;
+	border-color: #D0D0FF;
+	word-spacing: -10px;
+}
+.B {
+	font-size: 40px;
+	font-family: Tahoma;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	width: 100px;
+	height: 150px;
+	background-color: #eeeff2;
+	border-left-style: dotted; 
+	border-width: 10px;
+	border-color: #D0D0FF;
+}
+.h {
+	display: flex;
+}
+.C:hover, .A:hover, .B:hover{
+	background-color: yellow;
+}
