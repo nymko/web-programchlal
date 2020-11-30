@@ -1,0 +1,95 @@
+.dim{
+	color: pink;
+}
+
+.tbl1 {
+    width: 180px;
+	background: pink;
+    color: white;
+    
+}
+.hh{
+    background-color: pink;
+}
+.left {
+	text-align: left;
+}
+.center {
+	text-align: center;
+}
+.right {
+	text-align: right;
+}
+.tbl2 {
+	background: white;
+	color: black;
+	table-layout: fixed;
+}
+.tbl3 {
+	background: white;
+	color: black;
+	table-layout: fixed;
+}
+.gray {
+	text-align: center;
+	color: pink;
+}
+.black {
+	text-align: center;
+    color: black;
+    
+}
+
+.black:hover{
+    background-color: pink;
+}
+.alright{
+    text-align: right;
+    color: gray;
+}
+#callback{
+	background-color: black;
+}
+div{
+    justify-content: center;
+}
+h1{
+    color: pink;
+    
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+#datepicker1{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+#datepicker2{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+body{
+    background-image: url(2.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.zuun:hover, .baruun:hover{
+    size: 150%;
+    background-color: pink;
+    color: gray;
+    cursor: pointer;
+}
+.title{
+    background-color: pink;
+    color: gray;
+}
+.rowweek{
+    background-color: pink;
+    color: gray;
+}
+.cell{
+    color: gray;
+    cursor: pointer;
+}
+.cell:hover{
+    background-color: rgb(245, 208, 214);
+}
+.mm:disabled{
+    color: pink;
+}

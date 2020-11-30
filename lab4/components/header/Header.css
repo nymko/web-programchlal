@@ -1,0 +1,14 @@
+#img
+{
+    height: 400px;
+    width: 40%;
+    border-radius: 50%;
+    opacity: 0.5;
+}
+
+#headerback
+{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}

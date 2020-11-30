@@ -1,0 +1,18 @@
+
+body{
+    background-image: url("/c.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+.k{
+    margin-left: 40px;
+}
+.main{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-family: cursive;
+}
