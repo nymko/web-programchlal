@@ -1,0 +1,40 @@
+/*
+CSS for the CS142 project #5 main page
+
+Since CSS uses a global name space for classes we should use class names starting with
+cs142-main- here.
+*/
+.toolbar-left {
+	text-align: center;
+	font-size: 20px;
+	width: 320px;
+	justify-content: center;
+	margin: auto;
+	vertical-align: middle;
+	color: brown;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.toolbar-center {
+	text-align: center;
+	font-size: 20px;
+	width: 320px;
+	justify-content: center;
+	margin: auto;
+	color: brown;
+	vertical-align: middle;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	
+}
+md-toolbar.md-default-theme:not(.md-menu-toolbar), md-toolbar:not(.md-menu-toolbar){
+	background-color:  rgb(255,64,129);;
+	background-image: url("4.gif") ;
+	background-repeat: repeat;
+	color: black;
+	text-align: center;
+	font-style: Bold;
+	justify-content: center;
+}
+.toolbar-center ng-binding flex{
+	text-align: center;
+	
+}
