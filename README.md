@@ -1,2 +1,2 @@
 #Nyamka
-laboratoriin ajil-1
+web programchlal laboratiin ajluud
