@@ -1,0 +1,19 @@
+.cs142-photo {
+	padding: 20px;
+	border-radius: 20px;
+	border: 1px solid gray;	
+	background-color: #ffc0cb00;
+	max-width: 600px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.cs142-caption {
+	padding-top: 10px;
+	color: gray;
+	font-size: 20px;
+	font-style: italic;
+}
+#content{
+	background-image: url("2.gif");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
