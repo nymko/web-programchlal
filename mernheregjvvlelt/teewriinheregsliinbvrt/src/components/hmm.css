@@ -1,0 +1,15 @@
+
+.navbar-link{
+    justify-content: space-between;
+    color:blue ;
+}
+body{
+    font-family: 'Princess Sofia', cursive;
+    color: #4374a9;
+   
+}
+.table{
+    justify-content: center;
+    text-align: center;
+    opacity: 0.6;
+}

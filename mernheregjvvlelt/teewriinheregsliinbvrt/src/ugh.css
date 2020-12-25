@@ -1,0 +1,10 @@
+.garchig{
+    text-align: center;    
+    font-family: 'Princess Sofia', cursive;
+    color: #4374a9;
+}
+body{
+    background-image: url("3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
